@@ -20,3 +20,15 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.vs
+/KHN/.vs/KHN
+/KHN/KHN.API/bin/Debug/net8.0
+/KHN/KHN.API/obj
+/KHN/KHN.Grpc/bin/Debug/net8.0
+/KHN/KHN.Grpc/obj
+/KHN/KHN.Shared/bin/Debug/net8.0
+/KHN/KHN.Shared/obj
+/KHN/KHN.Worker/bin/Debug/net8.0
+/KHN/KHN.Worker/obj
+/KHN/KHN.Test/bin/Debug/net8.0
+/KHN/KHN.Test/obj
