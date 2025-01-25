@@ -20,6 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\KHN.Domain\KHN.Domain.csproj" />
+    <ProjectReference Include="..\KHN.Service\KHN.Service.csproj" />
     <ProjectReference Include="..\KHN.Shared\KHN.Shared.csproj" />
   </ItemGroup>
 

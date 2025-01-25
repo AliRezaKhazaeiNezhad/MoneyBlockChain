@@ -18,6 +18,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Test", "KHN.Test\KHN.Test.csproj", "{23F767E8-5593-436B-87DB-5A7858862FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Domain", "KHN.Domain\KHN.Domain.csproj", "{BC4F6429-B149-4820-9B16-227C5C63D92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Service", "KHN.Service\KHN.Service.csproj", "{A539E8DD-A6FC-4A89-A191-2E391439664F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +48,14 @@ Global
 		{23F767E8-5593-436B-87DB-5A7858862FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F767E8-5593-436B-87DB-5A7858862FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F767E8-5593-436B-87DB-5A7858862FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4F6429-B149-4820-9B16-227C5C63D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4F6429-B149-4820-9B16-227C5C63D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4F6429-B149-4820-9B16-227C5C63D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4F6429-B149-4820-9B16-227C5C63D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A539E8DD-A6FC-4A89-A191-2E391439664F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A539E8DD-A6FC-4A89-A191-2E391439664F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A539E8DD-A6FC-4A89-A191-2E391439664F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A539E8DD-A6FC-4A89-A191-2E391439664F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

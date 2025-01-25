@@ -32,3 +32,7 @@ TestResults.xml
 /KHN/KHN.Worker/obj
 /KHN/KHN.Test/bin/Debug/net8.0
 /KHN/KHN.Test/obj
+/KHN/KHN.Domain/obj
+/KHN/KHN.Domain/bin/Debug/net8.0
+/KHN/KHN.Service/bin/Debug/net8.0
+/KHN/KHN.Service/obj
