@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Worker", "KHN.Worker\KH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Shared", "KHN.Shared\KHN.Shared.csproj", "{CC324547-FE7A-49B8-A0C5-57FABDC2C660}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{382DC474-BE12-486E-A380-D2418EBB171D}"
-	ProjectSection(SolutionItems) = preProject
-		readme.txt = readme.txt
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Test", "KHN.Test\KHN.Test.csproj", "{23F767E8-5593-436B-87DB-5A7858862FB8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHN.Domain", "KHN.Domain\KHN.Domain.csproj", "{BC4F6429-B149-4820-9B16-227C5C63D92D}"
